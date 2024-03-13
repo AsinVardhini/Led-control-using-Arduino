@@ -58,10 +58,10 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-```
+
 ![image](https://github.com/AsinVardhini/Led-control-using-Arduino/assets/119417735/290adbf8-8d85-4079-9c98-0bfccc7f28e0)
 
-```
+
 ## PROGRAM
 ```
 const int buttonPin = 3;     
